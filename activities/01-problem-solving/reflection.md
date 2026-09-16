@@ -1,0 +1,1 @@
+I made my solution by first understanding the problem, writing simple pseudocode, and doing the dry run. I checked my answers using the given test cases. I know a little about VS Code and GitHub, but I still followed the instructions and used Google when I got confused. Organizing and committing my files helped me keep my work neat and easy to track.
